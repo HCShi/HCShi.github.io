@@ -1,3 +1,4 @@
+## Welcome to Haichao Shi's Pages
 <div>
 <table border="0">
   <tr>
