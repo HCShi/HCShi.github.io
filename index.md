@@ -7,8 +7,8 @@
       <p><b>中国科学院信息工程研究所</b></p>
       <p><b>邮箱：shihaichao@iie.ac.cn</b></p>
       <p><b>地址：北京市海淀区闵庄路甲89号，邮编100093</b></p>
-      <p><a href="https://dblp.org/pid/180/1745.html">DBLP</a></p>
-      <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p>
+      <p>[<a href="https://dblp.org/pid/180/1745.html">DBLP</a>], [<a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a>]</p>]
+<!--       <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p> -->
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
