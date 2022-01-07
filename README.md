@@ -1,2 +1,1 @@
-<!-- # HCShi.github.io -->
-# My Biography
+# HCShi.github.io
