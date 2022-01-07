@@ -7,11 +7,36 @@
       <p><b>Institute of Information Engineering, Chinese Academy of Sciences</b></p>
       <p><b>E-mail：shihaichao@iie.ac.cn</b></p>
       <p><b>Address：Beijing, Haidian District, Road Minzhuang, No.89</b></p>
+      <p><a href="https://dblp.org/pid/180/1745.html">DBLP</a></p>
+      <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p>
       <a href="index.html">中文版</a>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="assets/personal.jpg" width="100%">
     </td>
   </tr>
 </table>
 </div>
+
+<hr>
+<p>石海超，中国科学院信息工程研究所在读博士研究生。主要研究方向包括行为识别与检测等相关问题。</p>
+<hr>
+<h3>Publications</h3>
+<ul>
+<li>Weakly-Supervised Action Recognition and Localization via Iterative Optimization of Embedding and Modeling. Pattern Recognition, 2021.</li>
+<li>AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization. IEEE TNNLS, 2020.</li>
+<li>Active semi-supervised learning based on self-expressive correlation with generative adversarial networks. Neurocomputing, 2019.</li>
+<li>SAPS Self-Attentive Pathway Search for Weakly-supervised Action Localization with Background-Action Augmentation. Computer Vision and Image Understanding (CVIU), 2021.</li>
+</ul>
+<h3>Conferences</h3>
+<ul>
+<li>Multi-instance Multi-label Action Recognition and Localization Based on Spatio-Temporal Pre-trimming for Untrimmed Videos. The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.</li>
+<li>Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019.</li>
+<li>SSGAN: Secure Steganography Based on Generative Adversarial Networks. Pacific-Rim Conference on Multimedia (PCM), 2017.</li>
+<li>Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences. The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.</li>
+<li>DistilSum: Distilling the Knowledge for Extractive Summarization. The 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.</li>
+<li>Image captioning based on deep reinforcement learning. Proceedings of the 10th International Conference on Internet Multimedia Computing and Service (ICIMCS), 2018.</li>
+<li>Synchronized Detection and Recovery of Steganographic Messages with Adversarial Learning. INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE (ICCS), 2019.</li>
+<li>Weakly-Supervised Action Recognition and Localization via Knowledge Transfer. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2019.</li>
+<li>Weakly Supervised Action Recognition and Localization based on Twin Structured Transferable Self-attentive Representation. The 8th international conference on Computational Visual Media (CVM), 2020.</li>
+</ul>
