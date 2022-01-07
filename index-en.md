@@ -19,7 +19,8 @@
 </div>
 
 <hr>
-<p>石海超，中国科学院信息工程研究所在读博士研究生。主要研究方向包括行为识别与检测等相关问题。</p>
+<p>Haichao Shi (Student Member, IEEE) received the B.S. degree in software engineering from Beijing Technology and Business University, Beijing, China, in 2017. I am currently pursuing the Ph.D. degree in cyberspace security with the National Engineering Laboratory of Information Content Security Technology, Institute of Information Engineering, Chinese Academy of Sciences, Beijing. My research interests include action detection, action recognition, re-identification, etc.
+</p>
 <hr>
 <h3>Publications</h3>
 <ul>
