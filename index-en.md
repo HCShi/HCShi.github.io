@@ -7,8 +7,8 @@
       <p><b>Institute of Information Engineering, Chinese Academy of Sciences</b></p>
       <p><b>E-mail：shihaichao@iie.ac.cn</b></p>
       <p><b>Address：Beijing, Haidian District, Road Minzhuang, No.89</b></p>
-      <p><a href="https://dblp.org/pid/180/1745.html">DBLP</a></p>
-      <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p>
+      <p>[<a href="https://dblp.org/pid/180/1745.html">DBLP</a>], [<a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a>]</p>
+<!--       <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p> -->
       <a href="index.html">中文版</a>
     </td>
     <td width="25%">
