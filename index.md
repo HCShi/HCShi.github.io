@@ -7,6 +7,8 @@
       <p><b>中国科学院信息工程研究所</b></p>
       <p><b>邮箱：shihaichao@iie.ac.cn</b></p>
       <p><b>地址：北京市海淀区闵庄路甲89号，邮编100093</b></p>
+      <p><a href="https://dblp.org/pid/180/1745.html">DBLP</a></p>
+      <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
@@ -46,11 +48,34 @@
 
 <li>Weakly Supervised Action Recognition and Localization based on Twin Structured Transferable Self-attentive Representation. The 8th international conference on Computational Visual Media (CVM), 2020.</li>
 
+
 <!-- ### 研究方向
 - 行为识别
 - 行为检测 -->
 
 ### 社会工作
+
+### 荣誉和奖励
+<ul>
+<li>The Winner of OmniCV Workshop Challenge, CVPR, 2021.</li>
+<li>Pacemaker to Merit Student (Top 1%), University of Chinese Academy of Sciences. 2020.</li>
+<li>Merit Student, University of Chinese Academy of Sciences. 2018, 2020.</li>
+<li>National Scholarship, Ministry of Education, China 2019.</li>
+<li>Merit Student, Beijing. 2017.</li>
+</ul>
+
+<h3>Competitions</h3>
+<ul>
+<li>CVPR 2021 OmniCV Workshop Challenge--Woodscape Fisheye Semantic Segmentation for Autonomous Driving, 2021.04--2021.06, First Prize.</li>
+<li>CVPR 2021 UG2+ Challenge Track2.1—-Fully Supervised Action Recognition in the Dark, 2021.02--2021.05, Rank: 5.</li>
+</ul>
+<h3>Social work</h3>
+<ul>
+<li>2020.10, Conference Reviewer, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</li>
+<li>2020.12, Conference Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.</li>
+<li>2019.11, Conference Reviewer, IEEE International Conference on Multimedia and Expo (ICME) 2019.</li>
+<li>2019.5--2019.12, Journal Reviewer, IEEE Access.</li>
+</ul>
 - 奖学金
 - 荣誉称号
 - 比赛获奖
