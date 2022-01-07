@@ -53,6 +53,7 @@
 <h3>Competitions</h3>
 <ul>
 <li>CVPR 2021 OmniCV Workshop Challenge--Woodscape Fisheye Semantic Segmentation for Autonomous Driving, 2021.04--2021.06, First Prize.</li>
+<li>CVPR 2021 UG2+ Challenge Track2.1—-Fully Supervised Action Recognition in the Dark, 2021.02--2021.05, Rank: 5.</li>
 </ul>
 <h3>Social work</h3>
 <ul>
