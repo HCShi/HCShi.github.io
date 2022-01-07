@@ -41,3 +41,10 @@
 <li>Weakly-Supervised Action Recognition and Localization via Knowledge Transfer. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2019.</li>
 <li>Weakly Supervised Action Recognition and Localization based on Twin Structured Transferable Self-attentive Representation. The 8th international conference on Computational Visual Media (CVM), 2020.</li>
 </ul>
+<h3>Honors</h3>
+CVPR 2021 OmniCV Workshop Challenge--Woodscape Fisheye Semantic Segmentation for Autonomous Driving, 2021.04--2021.06, First Prize.
+<h3>Social work</h3>
+<li>2020.10, Conference Reviewer, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</li>
+<li>2020.12, Conference Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.</li>
+<li>2019.11, Conference Reviewer, IEEE International Conference on Multimedia and Expo (ICME) 2019.</li>
+<li>2019.5--2019.12, Journal Reviewer, IEEE Access.</li>
