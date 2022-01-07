@@ -66,6 +66,7 @@
 <li>国家奖学金, 教育部, 2019.</li>
 <li>三好学生, 北京市. 2017.</li>
 </ul>
+
 ### 科研竞赛
 <ul>
 <li>CVPR 2021 OmniCV Workshop Challenge--Woodscape Fisheye Semantic Segmentation for Autonomous Driving, 2021.04--2021.06, 第一名.</li>
