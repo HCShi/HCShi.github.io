@@ -20,11 +20,16 @@
 </div>
 
 <hr>
-<p>Haichao Shi (Student Member, IEEE) received the B.S. degree in software engineering from Beijing Technology and Business University, Beijing, China, in 2017. I am currently pursuing the Ph.D. degree in cyberspace security with the National Engineering Laboratory of Information Content Security Technology, Institute of Information Engineering, Chinese Academy of Sciences, Beijing. My research interests include action detection, action recognition, re-identification, etc.
+<p>Haichao Shi (Member, IEEE) received the B.S. degree in software engineering from Beijing Technology and Business University, Beijing, China, in 2017, and the Ph.D. degree in cyberspace security from the Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China, in 2022. I am currently an engineer with the Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China.
+  My research interests include temporal action localization, action recognition, re-identification, etc.
 </p>
 <hr>
 <h3>Publications</h3>
 <ul>
+<li>OW-TAL: Learning Unknown Human Activities for Open-World Temporal Action Localization. Pattern Recognition, 2022.</li>
+<li>Consistent Sub-Decision Network for Low-Quality Masked Face Recognition. IEEE Signal Process. Lett, 2022.</li>
+<li>Action Shuffling for Weakly Supervised Temporal Localization. IEEE Trans. Image Process, 2022.</li>
+<li>TwinNet: Twin Structured Knowledge Transfer Network for Weakly Supervised Action Localization. Machine Intelligence Research, 2022.</li>
 <li>Weakly-Supervised Action Recognition and Localization via Iterative Optimization of Embedding and Modeling. Pattern Recognition, 2021.</li>
 <li>AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization. IEEE TNNLS, 2020.</li>
 <li>Active semi-supervised learning based on self-expressive correlation with generative adversarial networks. Neurocomputing, 2019.</li>
@@ -32,6 +37,7 @@
 </ul>
 <h3>Conferences</h3>
 <ul>
+<li>Dynamic Graph Modeling for Weakly-Supervised Temporal Action Localization. The 30th ACM International Conference on Multimedia (ACM MM), 2022.</li>
 <li>Multi-instance Multi-label Action Recognition and Localization Based on Spatio-Temporal Pre-trimming for Untrimmed Videos. The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.</li>
 <li>Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019.</li>
 <li>SSGAN: Secure Steganography Based on Generative Adversarial Networks. Pacific-Rim Conference on Multimedia (PCM), 2017.</li>
