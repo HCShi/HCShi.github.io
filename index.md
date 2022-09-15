@@ -21,11 +21,16 @@
 
 ---
 
-石海超，中国科学院信息工程研究所在读博士研究生。主要研究方向包括行为识别与检测等相关问题。
+石海超，电气和电子工程师协会（IEEE）、国际计算机学会（ACM）、中国图象图形学学会（CSIG）会员。博士毕业于中国科学院信息工程研究所，主要研究方向包括行为识别与检测等相关问题。
 
 ---
 
 ### 学术论文
+<li>Dynamic Graph Modeling for Weakly-Supervised Temporal Action Localization. The 30th ACM International Conference on Multimedia (ACM MM), 2022.</li>
+<li>OW-TAL: Learning Unknown Human Activities for Open-World Temporal Action Localization. Pattern Recognition, 2022.</li>
+<li>Consistent Sub-Decision Network for Low-Quality Masked Face Recognition. IEEE Signal Process. Lett, 2022.</li>
+<li>Action Shuffling for Weakly Supervised Temporal Localization. IEEE Trans. Image Process, 2022.</li>
+<li>TwinNet: Twin Structured Knowledge Transfer Network for Weakly Supervised Action Localization. Machine Intelligence Research, 2022.</li>
 <li>Weakly-Supervised Action Recognition and Localization via Iterative Optimization of Embedding and Modeling. Pattern Recognition, 2021.</li>
 <li>AdapNet: Adaptability Decomposing Encoder-Decoder Network for Weakly Supervised Action Recognition and Localization. IEEE TNNLS, 2020.</li>
 <li>Multi-instance Multi-label Action Recognition and Localization Based on Spatio-Temporal Pre-trimming for Untrimmed Videos. The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.</li>
@@ -62,6 +67,7 @@
 
 ### 荣誉和奖励
 <ul>
+<li>朱李月华优博, 中国科学院. 2022.</li>
 <li>三好学生标兵, 中国科学院大学. 2020.</li>
 <li>三好学生, 中国科学院大学. 2018, 2020.</li>
 <li>国家奖学金, 教育部, 2019.</li>
