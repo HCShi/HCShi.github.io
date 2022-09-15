@@ -60,8 +60,8 @@
 - 行为检测 -->
 
 ### 社会工作
-- 2020.10, Conference Reviewer, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.
-- 2020.12, Conference Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
+- 2021.10, Conference Reviewer, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.
+- 2021.12, Conference Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
 - 2019.11, Conference Reviewer, IEEE International Conference on Multimedia and Expo (ICME) 2019.
 - 2019.5--2019.12, Journal Reviewer, IEEE Access.
 
