@@ -4,10 +4,10 @@
   <tr>
     <td width="75%">
       <h1>石海超</h1>
-      <p><b>博士研究生</b></p>
+      <p><b>工学博士</b></p>
       <p><b>中国科学院信息工程研究所</b></p>
       <p><b>邮箱：shihaichao@iie.ac.cn</b></p>
-      <p><b>地址：北京市海淀区闵庄路甲89号，邮编100093</b></p>
+      <p><b>地址：北京市海淀区树村路19号，邮编100085</b></p>
       <p>[<a href="https://dblp.org/pid/180/1745.html">DBLP</a>], [<a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a>]</p>
 <!--       <p><a href="https://scholar.google.com/citations?user=WvyvclcAAAAJ&hl=zh-CN">Google Scholar</a></p> -->
       <p><a href="/index-en.html">English Version</a></p>
@@ -67,6 +67,8 @@
 
 ### 荣誉和奖励
 <ul>
+<li>北京市科协青年托举人才, 北京市. 2023.</li>
+<li>北京图象图形学学会优博提名, 北京市. 2023.</li>
 <li>朱李月华优博, 中国科学院. 2022.</li>
 <li>三好学生标兵, 中国科学院大学. 2020.</li>
 <li>三好学生, 中国科学院大学. 2018, 2020.</li>
